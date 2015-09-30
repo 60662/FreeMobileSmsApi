@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0-*",
+  "title": "Web Api Client for the Free mobile sms service",
+  "description": "Web Api Client for the Free mobile sms service",
+  "authors": [ "Roland Barbe" ],
+  "owners": [ "Roland Barbe" ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rbarbe/FreeMobileSmsApi"
+  },
+  "tags": [ "freemobile", "sms" ],
+  "projectUrl": "https://github.com/rbarbe/FreeMobileSmsApi",
+  "licenseUrl": "https://raw.githubusercontent.com/rbarbe/FreeMobileSmsApi/master/LICENSE",
+  "frameworks": {
+    "dotnet": { }
+  },
+  "dependencies": {
+    "System.Net.Http": "4.0.0"
+  }
+}
