@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-*",
+  "version": "1.0.1-*",
   "title": "Web Api Client for the Free mobile sms service",
   "description": "Web Api Client for the Free mobile sms service",
   "authors": [ "Roland Barbe" ],
@@ -12,7 +12,7 @@
   "projectUrl": "https://github.com/rbarbe/FreeMobileSmsApi",
   "licenseUrl": "https://raw.githubusercontent.com/rbarbe/FreeMobileSmsApi/master/LICENSE",
   "frameworks": {
-    "dotnet": { }
+    "dotnet5.1": { }
   },
   "dependencies": {
     "System.Net.Http": "4.0.0"
